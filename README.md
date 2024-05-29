@@ -15,10 +15,6 @@ Welcome to my GitHub profile! I'm a passionate web developer dedicated to creati
 - **Tools:** Git, Docker, Webpack, Babel, VSCode
 - **Cloud Services:** AWS, Vercel, Netlify
 
-## 🚀 Current Projects
-
-- **[Project Name](https://github.com/yourusername/projectname):** An innovative solution to [describe your project briefly].
-- **[Another Project](https://github.com/yourusername/anotherproject):** A [brief description of what this project does].
 
 ## 🌱 Learning & Growth
 
