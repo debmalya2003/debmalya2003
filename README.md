@@ -1,5 +1,4 @@
-![Web Developer at Work](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47i4nyaj15qe92761bj8knuzp3j00cc6u2s1zzu8e6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
+<img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47i4nyaj15qe92761bj8knuzp3j00cc6u2s1zzu8e6&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Web Developer at Work" style="width: 100%; height: auto;">
 # Hi there 👋, I'm Debmalya Mukherjee
 
 ### 🌐 Web Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor
