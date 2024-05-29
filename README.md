@@ -1,4 +1,4 @@
-![Web Developer at Work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fsoftware-web-development-3d-illustration_15176805.htm&psig=AOvVaw02bTU6U6bJJRl0mQvlKiMz&ust=1717092747277000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC83o27s4YDFQAAAAAdAAAAABAE)
+![Web Developer at Work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fweb-development-3d&psig=AOvVaw02bTU6U6bJJRl0mQvlKiMz&ust=1717092747277000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC83o27s4YDFQAAAAAdAAAAABAJ)
 
 # Hi there 👋, I'm Debmalya Mukherjee
 
