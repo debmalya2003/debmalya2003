@@ -1,7 +1,4 @@
-(https://i.gifer.com/6ELq.gif)
-
-![Web Developer at Work]
-
+![Web Developer at Work](https://i.gifer.com/6ELq.gif)
 
 # Hi there 👋, I'm [Debmalya Mukherjee]
 
@@ -35,10 +32,10 @@ I'm always open to collaborating on exciting projects. If you have an idea or ne
 
 ## 📫 Let's Connect
 
-- **Email:** [debmalyamukherjee660@gmail.com](debmalyamukherjee660@gmail.com)
-- **LinkedIn:** [https://www.linkedin.com/in/debmalyamukherjee?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/debmalyamukherjee?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Instagram:** [(https://www.instagram.com/debmalya_2003?igsh=MW1wM2VvZjZ3anYxYg==)]((https://www.instagram.com/debmalya_2003?igsh=MW1wM2VvZjZ3anYxYg==))
-- **Personal Website:** [https://main-portfolio-umber-omega.vercel.app/]([https://www.yourwebsite.com](https://main-portfolio-umber-omega.vercel.app/))
+- **Email:** [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:debmalyamukherjee660@gmail.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debmalyamukherjee?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Instagram:** [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/debmalya_2003?igsh=MW1wM2VvZjZ3anYxYg==)
+- **Personal Website:** [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://main-portfolio-umber-omega.vercel.app/)
 
 ## 💬 Ask Me About
 
