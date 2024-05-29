@@ -1,4 +1,4 @@
-![Web Developer at Work](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fweb-development-3d&psig=AOvVaw02bTU6U6bJJRl0mQvlKiMz&ust=1717092747277000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC83o27s4YDFQAAAAAdAAAAABAJ)
+![Web Developer at Work](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47i4nyaj15qe92761bj8knuzp3j00cc6u2s1zzu8e6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 # Hi there 👋, I'm Debmalya Mukherjee
 
