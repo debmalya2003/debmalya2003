@@ -1,4 +1,7 @@
-![Web Developer at Work]([https://media.giphy.com/media/3o7aD6V3p4G4AM2u5G/giphy.gif])
+([https://media.giphy.com/media/3o7aD6V3p4G4AM2u5G/giphy.gif])
+
+![Web Developer at Work]
+
 
 # Hi there 👋, I'm [Debmalya Mukherjee]
 
