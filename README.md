@@ -1,6 +1,6 @@
 ![Web Developer at Work](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif?cid=ecf05e47i4nyaj15qe92761bj8knuzp3j00cc6u2s1zzu8e6&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-bronze?style=for-the-badge&logo=github)
+
 # Hi there 👋, I'm Debmalya Mukherjee
 
 ### 🌐 Web Developer | 🚀 Tech Enthusiast | 💡 Open Source Contributor
